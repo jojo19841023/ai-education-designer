@@ -15,7 +15,7 @@
 
 ## YouTube implementation path
 
-The current YouTube path is image-led rather than Prezi-led:
+The current YouTube path is image-led:
 
 1. Notion script and shot plan.
 2. 24 knowledge-board image frames.
