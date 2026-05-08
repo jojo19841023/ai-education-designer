@@ -29,3 +29,7 @@
 - is the image too text-heavy?
 - is the color hierarchy clear?
 
+## Source of truth
+
+- Notion is the daily creative workspace and execution board
+- GitHub is the stable production record for reusable rules, scripts, and tracked episode artifacts

@@ -27,3 +27,14 @@ Track later with LFS or Releases if needed:
 - full image batches
 - raw audio batches
 
+## Current recommendation
+
+Prefer **GitHub Releases** over Git LFS for now.
+
+Use Releases when:
+
+- a final preview or approved export should be shared
+- the repo should stay lightweight
+- binary versioning is occasional rather than constant
+
+Revisit LFS only if the project starts tracking large binary assets as a routine part of version control.
