@@ -62,6 +62,7 @@ Important tracked docs:
 - [README.md](/Users/jojo/Documents/New%20project%202/README.md)
 - [docs/visual-system.md](/Users/jojo/Documents/New%20project%202/docs/visual-system.md)
 - [docs/workflow.md](/Users/jojo/Documents/New%20project%202/docs/workflow.md)
+- [docs/youtube-video-generation-workflow.md](/Users/jojo/Documents/New%20project%202/docs/youtube-video-generation-workflow.md)
 - [docs/notion-github-operating-model.md](/Users/jojo/Documents/New%20project%202/docs/notion-github-operating-model.md)
 - [projects/ai-education-designer/2026-05-06/README.md](/Users/jojo/Documents/New%20project%202/projects/ai-education-designer/2026-05-06/README.md)
 - [assets/ai-education-designer/2026-05-06/artifacts-index.md](/Users/jojo/Documents/New%20project%202/assets/ai-education-designer/2026-05-06/artifacts-index.md)
@@ -132,3 +133,15 @@ When resuming work, default to this order:
 2. check the latest tracked project record in `projects/`
 3. check whether Notion and GitHub are in sync
 4. continue visual or video refinement from the latest approved preview
+
+## YouTube Workflow Reminder
+
+The active YouTube production path is:
+
+1. script and shot plan in Notion
+2. `16:9` knowledge-board image sequence
+3. segment-level narration and voiceover
+4. subtitle timing and hard-subtitle preview when needed
+5. local `ffmpeg` video assembly
+6. image-to-voice alignment review
+7. final export and optional GitHub Release archival

@@ -88,5 +88,6 @@ If the project later needs frequent binary versioning for large image batches or
 - [docs/project-memory.md](/Users/jojo/Documents/New%20project%202/docs/project-memory.md)
 - [docs/visual-system.md](/Users/jojo/Documents/New%20project%202/docs/visual-system.md)
 - [docs/workflow.md](/Users/jojo/Documents/New%20project%202/docs/workflow.md)
+- [docs/youtube-video-generation-workflow.md](/Users/jojo/Documents/New%20project%202/docs/youtube-video-generation-workflow.md)
 - [docs/notion-github-operating-model.md](/Users/jojo/Documents/New%20project%202/docs/notion-github-operating-model.md)
 - [docs/repo-structure.md](/Users/jojo/Documents/New%20project%202/docs/repo-structure.md)

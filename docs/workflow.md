@@ -13,6 +13,20 @@
 9. Regenerate mismatched frames.
 10. Export final version.
 
+## YouTube implementation path
+
+The current YouTube path is image-led rather than Prezi-led:
+
+1. Notion script and shot plan.
+2. 24 knowledge-board image frames.
+3. AI voiceover and subtitle timing.
+4. Hard-subtitle preview images where needed.
+5. Local `ffmpeg` assembly.
+6. Review and regenerate mismatched frames.
+7. Final export for YouTube.
+
+See [youtube-video-generation-workflow.md](/Users/jojo/Documents/New%20project%202/docs/youtube-video-generation-workflow.md) for the implementation-level workflow.
+
 ## Visual speaking unit rules
 
 - one image should support roughly `30` to `55` seconds of speaking
