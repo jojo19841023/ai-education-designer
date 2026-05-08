@@ -19,6 +19,12 @@ This repo does not yet commit the full raw render dump. The current local artifa
 
 - `AI_education_designer_video_v3_hardsub.mp4`
 
+## Sync check on 2026-05-08
+
+- local artifacts confirmed present in `.runtime/ai_edu_video`
+- GitHub repo documentation updated and pushed
+- Notion sync pending due to expired authentication token
+
 ## Suggested next step
 
 After final review, either:
