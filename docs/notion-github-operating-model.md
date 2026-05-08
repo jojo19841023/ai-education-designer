@@ -73,6 +73,29 @@ Examples:
 - rough image taste comparisons
 - temporary execution reminders
 
+## External Notion References
+
+Some Notion pages are useful as project references but should not become required production steps.
+
+For `《AI教育设计师》`, the old `jojo自媒体工作流` is now treated as a general reference system.
+
+The active second-level reference page is:
+
+- `AI教育设计师 · 外部参考与保留资料`
+- `https://www.notion.so/35a62e0920648135b6edf5f6b2eb31ea`
+
+Use these references selectively:
+
+- content direction from `JoJo内容数据库说明`
+- shot decomposition methods from `jojo分镜数据库说明`
+- visual intent and composition logic from `JoJo视觉数据库说明`
+
+Do not treat these as mandatory episode steps:
+
+- `JoJo声音数据库说明`
+- `jojo视频剪辑库说明`
+- `jojo视频数据库说明`
+
 ## Publishing Policy
 
 Default tracking behavior:

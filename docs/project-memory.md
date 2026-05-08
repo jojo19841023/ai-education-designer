@@ -124,6 +124,38 @@ Key workspace pages:
 - `🎬 《AI教育设计师》视频制作工作流`
 - `🎨 AI教育设计师 · 文稿转图片视觉风格规范`
 - `🧩 AI教育设计师 · 今日文稿转图片工作单 2026-05-06`
+- `AI教育设计师 · 外部参考与保留资料`
+
+## External Reference Policy
+
+The old `jojo自媒体工作流` system is not the main production path for `《AI教育设计师》`.
+
+It is retained as a reference system only.
+
+Current second-level reference page under the `《AI教育设计师》` Notion project:
+
+- `AI教育设计师 · 外部参考与保留资料`
+- URL: `https://www.notion.so/35a62e0920648135b6edf5f6b2eb31ea`
+
+Keep as useful references:
+
+- `JoJo内容数据库说明`: topic and content direction reference
+- `jojo分镜数据库说明`: content-to-shot decomposition reference
+- `JoJo视觉数据库说明`: visual intent, visual rules, and composition reference
+
+Downgrade to archive/reference status:
+
+- `JoJo声音数据库说明`
+- `jojo视频剪辑库说明`
+- `jojo视频数据库说明`
+
+These pages are not required for every `《AI教育设计师》` episode.
+
+Daily production should use:
+
+- `🎬 《AI教育设计师》视频制作工作流`
+- GitHub workflow docs and scripts
+- local `.runtime/ai_edu_video` outputs
 
 ## Operational Reminder
 
