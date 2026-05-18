@@ -14,17 +14,17 @@
 
 ### Primary
 
-- `warm yellow`: core, insight, light source
-- `soft purple`: reflection, abstraction, spiritual tone
-- `light blue`: system, structure, rationality
-- `soft pink`: humanity, emotion, care
+- `warm yellow` / `#F6D86B`: core, insight, light source
+- `soft purple` / `#B9A7E8`: reflection, abstraction, spiritual tone
+- `light blue` / `#9EC9F3`: system, structure, rationality
+- `soft pink` / `#F2AFC3`: humanity, emotion, care
 
 ### Secondary
 
-- `sage green`: growth, path, evolution
-- `muted orange`: transition, action, energy shift
-- `charcoal grey`: structure weight, emphasis
-- `dusty teal`: network, flow, connection
+- `sage green` / `#A8C8A0`: growth, path, evolution
+- `muted orange` / `#E6A05F`: transition, action, energy shift
+- `charcoal grey` / `#3F4650`: structure weight, emphasis
+- `dusty teal` / `#6FAFBA`: network, flow, connection
 
 ### Rules
 
@@ -32,6 +32,8 @@
 - use at most `2` primary colors and `1` secondary color per image
 - keep black pencil drawing as the dominant layer
 - avoid neon and high-saturation commercial palettes
+- background should stay near-white cool light grey grid paper, not yellowed paper
+- do not use all palette colors in one image; choose a deliberate color trio per frame
 
 ## Typography system
 
@@ -60,4 +62,3 @@
 - prefer one strong structure per frame
 - avoid overloading the image with equal-weight nodes
 - let voiceover and subtitles carry explanation
-

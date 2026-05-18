@@ -2,7 +2,58 @@
 
 Shared style for every frame:
 
-`A hand-drawn educational knowledge-board illustration on light grey grid paper, 16:9 widescreen. Black pencil sketch with visible construction lines and restrained but readable accent colors. Use the AI Education Designer visual system: modern scholarly Chinese title, sparse handwritten Chinese labels, calm intellectual tone, subtitle-safe bottom area, one dominant structural idea per frame. Avoid crowded infographic logic and avoid full explanatory sentences inside the image.`
+`A hand-drawn educational knowledge-board illustration on bright near-white cool light grey grid paper, 16:9 widescreen. Black pencil sketch with visible construction lines and restrained but readable accent colors. Use the AI Education Designer visual system: modern scholarly Chinese title, sparse handwritten Chinese labels, calm intellectual tone, subtitle-safe bottom area, one dominant structural idea per frame. Avoid crowded infographic logic and avoid full explanatory sentences inside the image.`
+
+## Fixed Color Card
+
+Primary colors:
+
+- `warm yellow` / `#F6D86B`: core, insight, light source
+- `soft purple` / `#B9A7E8`: reflection, abstraction, spiritual tone
+- `light blue` / `#9EC9F3`: system, structure, rationality
+- `soft pink` / `#F2AFC3`: humanity, emotion, care
+
+Secondary colors:
+
+- `sage green` / `#A8C8A0`: growth, path, evolution
+- `muted orange` / `#E6A05F`: transition, action, energy shift
+- `charcoal grey` / `#3F4650`: structure weight, emphasis
+- `dusty teal` / `#6FAFBA`: network, flow, connection
+
+Color rules:
+
+- each image uses at most `2` primary colors and `1` secondary color
+- color coverage stays around `15%` to `25%`
+- black pencil linework remains dominant
+- background must be bright near-white cool grey grid paper, never yellowed paper
+- do not use all palette colors in one image
+
+## Frame Color Assignments
+
+- 01: `warm yellow` + `light blue` + `dusty teal`
+- 02: `warm yellow` + `light blue` + `muted orange`
+- 03: `warm yellow` + `soft purple` + `dusty teal`
+- 04: `warm yellow` + `light blue` + `dusty teal`
+- 05: `soft purple` + `light blue` + `charcoal grey`
+- 06: `warm yellow` + `light blue` + `sage green`
+- 07: `warm yellow` + `light blue` + `dusty teal`
+- 08: `light blue` + `soft purple` + `muted orange`
+- 09: `warm yellow` + `light blue` + `dusty teal`
+- 10: `light blue` + `soft pink` + `sage green`
+- 11: `soft purple` + `soft pink` + `charcoal grey`
+- 12: `warm yellow` + `soft pink` + `muted orange`
+- 13: `light blue` + `soft pink` + `dusty teal`
+- 14: `warm yellow` + `light blue` + `muted orange`
+- 15: `warm yellow` + `light blue` + `dusty teal`
+- 16: `light blue` + `soft pink` + `sage green`
+- 17: `light blue` + `soft purple` + `muted orange`
+- 18: `warm yellow` + `light blue` + `dusty teal`
+- 19: `warm yellow` + `soft purple` + `sage green`
+- 20: `warm yellow` + `light blue` + `sage green`
+- 21: `warm yellow` + `soft purple` + `dusty teal`
+- 22: `light blue` + `soft pink` + `sage green`
+- 23: `warm yellow` + `light blue` + `dusty teal`
+- 24: `warm yellow` + `soft pink` + `dusty teal`
 
 ## 01 AI不是教育的终结
 
