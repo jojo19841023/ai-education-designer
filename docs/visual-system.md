@@ -14,26 +14,31 @@
 
 ### Primary
 
-- `warm yellow` / `#F6D86B`: core, insight, light source
-- `soft purple` / `#B9A7E8`: reflection, abstraction, spiritual tone
-- `light blue` / `#9EC9F3`: system, structure, rationality
-- `soft pink` / `#F2AFC3`: humanity, emotion, care
+- `watercolor yellow` / `#F8E8B8`: core, insight, light source
+- `powder blue` / `#C8DCEB`: system, structure, rationality
+- `lavender` / `#B8A2D8`: reflection, abstraction, spiritual tone
+- `soft rose` / `#E8C4CC`: humanity, emotion, care
 
 ### Secondary
 
-- `sage green` / `#A8C8A0`: growth, path, evolution
-- `muted orange` / `#E6A05F`: transition, action, energy shift
-- `charcoal grey` / `#3F4650`: structure weight, emphasis
-- `dusty teal` / `#6FAFBA`: network, flow, connection
+- `paper warm white` / `#F4F0E8`: paper base
+- `grid cool grey` / `#D8D8D0`: grid and construction guides
+- `pale teal` / `#C4DED8`: network, flow, connection
+- `soft apricot` / `#F2C9A8`: transition, action, energy shift
+- `sage wash` / `#C8D8BC`: growth, path, evolution
+- `pencil grey` / `#3F3F3A`: pencil linework, title, structure weight
 
 ### Rules
 
 - keep color coverage around `15%` to `25%`
-- use at most `2` primary colors and `1` secondary color per image
-- keep black pencil drawing as the dominant layer
+- prioritize the four circled colors: `watercolor yellow`, `powder blue`, `lavender`, and `soft rose`
+- use at most `3` of the four priority colors per image
+- use secondary colors only for paper, grid, pencil lines, or small support accents
+- keep pencil drawing as the dominant layer
 - avoid neon and high-saturation commercial palettes
-- background should stay near-white cool light grey grid paper, not yellowed paper
-- do not use all palette colors in one image; choose a deliberate color trio per frame
+- background should stay `paper warm white` with `grid cool grey`, not yellowed or sepia paper
+- colors should feel like translucent watercolor washes, not solid vector fills
+- do not use all palette colors in one image; choose a deliberate priority-color trio per frame
 
 ## Typography system
 

@@ -6,54 +6,59 @@ Shared style for every frame:
 
 ## Fixed Color Card
 
-Primary colors:
+Priority colors circled in the reference palette:
 
-- `warm yellow` / `#F6D86B`: core, insight, light source
-- `soft purple` / `#B9A7E8`: reflection, abstraction, spiritual tone
-- `light blue` / `#9EC9F3`: system, structure, rationality
-- `soft pink` / `#F2AFC3`: humanity, emotion, care
+- `watercolor yellow` / `#F8E8B8`: core, insight, light source
+- `powder blue` / `#C8DCEB`: system, structure, rationality
+- `lavender` / `#B8A2D8`: reflection, abstraction, spiritual tone
+- `soft rose` / `#E8C4CC`: humanity, emotion, care
 
-Secondary colors:
+Support colors:
 
-- `sage green` / `#A8C8A0`: growth, path, evolution
-- `muted orange` / `#E6A05F`: transition, action, energy shift
-- `charcoal grey` / `#3F4650`: structure weight, emphasis
-- `dusty teal` / `#6FAFBA`: network, flow, connection
+- `paper warm white` / `#F4F0E8`: paper base
+- `grid cool grey` / `#D8D8D0`: grid and construction guides
+- `pale teal` / `#C4DED8`: network, flow, connection
+- `soft apricot` / `#F2C9A8`: transition, action, energy shift
+- `sage wash` / `#C8D8BC`: growth, path, evolution
+- `pencil grey` / `#3F3F3A`: pencil linework, title, structure weight
 
 Color rules:
 
-- each image uses at most `2` primary colors and `1` secondary color
+- each image should prioritize the circled colors: `watercolor yellow`, `powder blue`, `lavender`, and `soft rose`
+- each image uses at most `3` priority colors
+- support colors are used only for paper, grid, pencil, or small secondary accents
 - color coverage stays around `15%` to `25%`
-- black pencil linework remains dominant
-- background must be bright near-white cool grey grid paper, never yellowed paper
+- pencil grey linework remains dominant
+- background must be paper warm white with cool grey grid lines
+- colors must look like translucent watercolor washes, not solid flat fills
 - do not use all palette colors in one image
 
 ## Frame Color Assignments
 
-- 01: `warm yellow` + `light blue` + `dusty teal`
-- 02: `warm yellow` + `light blue` + `muted orange`
-- 03: `warm yellow` + `soft purple` + `dusty teal`
-- 04: `warm yellow` + `light blue` + `dusty teal`
-- 05: `soft purple` + `light blue` + `charcoal grey`
-- 06: `warm yellow` + `light blue` + `sage green`
-- 07: `warm yellow` + `light blue` + `dusty teal`
-- 08: `light blue` + `soft purple` + `muted orange`
-- 09: `warm yellow` + `light blue` + `dusty teal`
-- 10: `light blue` + `soft pink` + `sage green`
-- 11: `soft purple` + `soft pink` + `charcoal grey`
-- 12: `warm yellow` + `soft pink` + `muted orange`
-- 13: `light blue` + `soft pink` + `dusty teal`
-- 14: `warm yellow` + `light blue` + `muted orange`
-- 15: `warm yellow` + `light blue` + `dusty teal`
-- 16: `light blue` + `soft pink` + `sage green`
-- 17: `light blue` + `soft purple` + `muted orange`
-- 18: `warm yellow` + `light blue` + `dusty teal`
-- 19: `warm yellow` + `soft purple` + `sage green`
-- 20: `warm yellow` + `light blue` + `sage green`
-- 21: `warm yellow` + `soft purple` + `dusty teal`
-- 22: `light blue` + `soft pink` + `sage green`
-- 23: `warm yellow` + `light blue` + `dusty teal`
-- 24: `warm yellow` + `soft pink` + `dusty teal`
+- 01: `watercolor yellow` + `powder blue` + `lavender`
+- 02: `watercolor yellow` + `powder blue` + small `soft apricot`
+- 03: `watercolor yellow` + `lavender` + `powder blue`
+- 04: `watercolor yellow` + `powder blue` + `lavender`
+- 05: `lavender` + `powder blue` + `soft rose`
+- 06: `watercolor yellow` + `powder blue` + small `sage wash`
+- 07: `watercolor yellow` + `powder blue` + `soft rose`
+- 08: `powder blue` + `lavender` + small `soft apricot`
+- 09: `watercolor yellow` + `powder blue` + `lavender`
+- 10: `powder blue` + `soft rose` + small `sage wash`
+- 11: `lavender` + `soft rose` + `powder blue`
+- 12: `watercolor yellow` + `soft rose` + small `soft apricot`
+- 13: `powder blue` + `soft rose` + `lavender`
+- 14: `watercolor yellow` + `powder blue` + small `soft apricot`
+- 15: `watercolor yellow` + `powder blue` + `lavender`
+- 16: `powder blue` + `soft rose` + small `sage wash`
+- 17: `powder blue` + `lavender` + small `soft apricot`
+- 18: `watercolor yellow` + `powder blue` + `lavender`
+- 19: `watercolor yellow` + `lavender` + small `sage wash`
+- 20: `watercolor yellow` + `powder blue` + `lavender`
+- 21: `watercolor yellow` + `lavender` + `soft rose`
+- 22: `powder blue` + `soft rose` + small `sage wash`
+- 23: `watercolor yellow` + `powder blue` + `lavender`
+- 24: `watercolor yellow` + `soft rose` + `lavender`
 
 ## 01 AI不是教育的终结
 
